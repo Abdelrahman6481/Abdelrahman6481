@@ -34,8 +34,10 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Ahmed Arafat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-arafat10&show_icons=true&count_private=true&locale=en&theme=react&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react" alt="Ahmed Arafat" height="230px"/>
+	    <img alt="Abdelrahman montaser Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman6481
+&show_icons=true&count_private=true&locale=en&theme=react&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman6481
+&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react" alt="Abdelrahman Montaser" height="230px"/>
 <br/>
 </p>
 
@@ -55,8 +57,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahman6481&show_icons=true&locale=en&layout=compact" alt="abdelrahman6481" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman6481&show_icons=true&locale=en" alt="abdelrahman6481" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman6481&" alt="abdelrahman6481" /></p>
