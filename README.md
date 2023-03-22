@@ -32,35 +32,26 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Ahmed Arafat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-arafat10&show_icons=true&count_private=true&locale=en&theme=react&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-arafat10&exclude_repo=Smartys-Android-App-Csharp&langs_count=10&layout=compact&hide=ASP.NET&theme=react" alt="Ahmed Arafat" height="230px"/>
+<br/>
+</p>
 
-<!-- 
-### Languages and Tools:
-<img align="left" title="C++" alt="C++" width="50px" src="/Pics/cpp.png" />
-<img align="left" title="Java" alt="Java" width="50px" src="/Pics/java.png" />
-<img align="left" title="PHP8" alt="PHP" width="50px" src="/Pics/php.png" />
-<img align="left" title="SQL" alt="SQL" width="50px" src="/Pics/mysql1.png" />
-<img align="left" title="HTML5" alt="HTML5" width="50px" src="/Pics/html-5.png" />
-<img align="left" title="CSS3" alt="CSS3" width="50px" src="/Pics/css3.png" />
-<img align="left" title="JavaScript" alt="JavaScript" width="50px" src="/Pics/js.png" />
-<img align="left" title="jQuery" alt="jQuery" width="50px" src="/Pics/jquery.png" />
-<img align="left" title="Ajax" alt="Ajax" width="50px" src="/Pics/ajax.png" />
-<img align="left" title="XAMPP" alt="XAMPP" width="50px" src="/Pics/xampp.png" />
-<img align="left" title="Bootstrap 4" alt="Bootstrap 4" width="50px" src="/Pics/bootstrap.png" />
-<br />
-<br />
-<br />
-<img align="left" title="Git" alt="Git" width="50px" src="/Pics/git.png" />
-<img align="left" title="AWS" alt="AWS" width="50px" src="/Pics/AWS.png" /> 
-<img align="left" title="Jenkins" alt="Jenkins" width="50px" src="/Pics/Jenkins.png" />
-<img align="left" title="Docker" alt="Docker" width="50px" src="/Pics/Docker.png" />
-<img align="left" title="GitHub" alt="GitHub" width="50px" src="/Pics/github.png" /> 
-<img align="left" title="Linux" alt="Linux" width="50px" src="/Pics/linux.png" />
-<img align="left"  title="Visual Studio Code" alt="Visual Studio Code" width="50px" src="/Pics/visual-studio-code.png" /> 
-<br />
-<br />
-<br />
- -->
- <br>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10" alt="ahmed-arafat10" /></a> </p>
+
+[![Arafat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-arafat10&theme=github	)](https://github.com/ahmed-arafat10/github-readme-activity-graph)
+
+---
+
+<img align="left" title="Ging Freecss" alt="Ging" width="100%" src="/Pics/ging.gif" />
+
+<p align = "center">
+	<a href="[https://github.com/piyushsuthar/github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Enjoy+The+Little+Detours+To+The+Fullest+..+Because+That's+Where+You'll+Find+The+Things+More+Important+Than+What+You+Want">
+</p>
 
 
 
