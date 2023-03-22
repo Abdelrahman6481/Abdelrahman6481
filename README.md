@@ -7,7 +7,23 @@
   </a>
 </h1>
 
+<p align="center">
+  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Back-End+Developer;Competitive+Programmer;Teaching+Assistant"></a>
+	</p>
 
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+- Studied Computer Science/Business Administration At Business Information System (`BIS`), Cnadian International College
+- Interested About `Software Engineering` | `Competitive Programming` | `Back-End Development` | `DevOps` 
+- I’m Currently Learning Everything 😂
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mohamed-yousry-0101/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmedarafat01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmedarafat01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmedarafat__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmedarafat__/" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCqXUeSCLARmWOJEBUBPVNIg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucqxuesclarmwojebubpvnig" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
