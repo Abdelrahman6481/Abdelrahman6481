@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Montaser</h1>
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<!-- ## I'm A Software Engineer | Back-End Developer | Competitive Programmer | Teaching Assistant ! -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+A+Software+Engineer....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman6481&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman6481" /> </p>
