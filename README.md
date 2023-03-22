@@ -41,9 +41,9 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-arafat10" alt="ahmed-arafat10" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelrahman6481" alt="Abdelrahman6481" /></a> </p>
 
-[![Arafat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmed-arafat10&theme=github	)](https://github.com/ahmed-arafat10/github-readme-activity-graph)
+[![Abdelrahman github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdelrahman6481&theme=github	)](https://github.com/Abdelrahman6481/github-readme-activity-graph)
 
 ---
 
