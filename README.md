@@ -1,5 +1,4 @@
-<p align="center">
-<img width="600"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+
 	
 <h1 align="center">Hi 👋, I'm Abdelrahman Montaser</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
@@ -10,6 +9,8 @@
   </a>
 </h1>
 
+<p align="center">
+<img width="600"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
