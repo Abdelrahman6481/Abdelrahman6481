@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-<img width="600"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<img width="600"  src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
