@@ -169,13 +169,5 @@
 
 ###
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abdelrahman6481/Abdelrahman6481/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 ---
