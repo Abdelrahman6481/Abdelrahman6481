@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Montaser</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<h1 align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+A+Software+Engineer...;Full-stack+Developer;Nice+to+meet+you!&center=true&size=27">
-  </a>
-</h1>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello,+There!+👋;I'm+A+Software+Engineer...;Full-stack+Developer;Nice+to+meet+you!"></a>
+
 
 <p align="center">
 <img width="600"  src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
