@@ -41,9 +41,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,git,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,laravel,postman,py,react,flutter,azure,redux,bash,
-kubernetes,docker,c,vim,tailwind,ts,vscode,clion,idea,phpstorm,pycharm,sublime,
-blender,ai,ae,pr,linkedin,notion,obsidian&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,git,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,laravel,postman,py,react,flutter,azure,redux,bash,kubernetes,docker,c,vim,tailwid,ts,vscode,clion,idea,phpstorm,pycharm,sublime,blender,ai,ae,pr,linkedin,notion,obsidian&perline=14" />
   </a>
 </p>
 
