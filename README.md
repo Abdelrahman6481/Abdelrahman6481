@@ -13,7 +13,7 @@
 <img width="600"  src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 
-- 🔭 I’m currently working on **Full-stack Developer, Laravel , PHP , My Sql**
+- :school: I am a `Junior` at [Faculty of Computers & Informatics]
 
 - 🌱 I’m currently learning **Mopile Application Development With Flutter**
 
