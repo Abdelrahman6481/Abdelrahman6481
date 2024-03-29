@@ -15,15 +15,19 @@
 
 - :school: I am a `Student` Faculty of Computers & Information technology at Canadian International Collage
 
-- 🌱 I’m currently learning **Mopile Application Development With Flutter**
+- 💻: I am Working  **`Full-stack Developer`, `Laravel` , `PHP` , `My Sql` ,`Flutter developer`**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- :technologist: I love using Software as a solution for every `Problem`.
+
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **`AWS`**
 
 - 📝 I regularly write articles on [Hashnode](https://abdelrahman1.hashnode.dev/newsletter)
 
-- 💬 Ask me about **Full-stack Developer, Laravel , PHP , My Sql ,Flutter**
+- 💬 Ask me about **`Full-stack Developer`, `Laravel` , `PHP` , `My Sql` ,`Flutter`**
 
-- 📫 Feel free to reach me out **cnario.bedo@gmail.com**
+- 📫 Feel free to reach me out **`cnario.bedo@gmail.com`**
 
 - 🏠 Also We've a tech community called [Discord](https://discord.gg/22DJY8QS).
 
