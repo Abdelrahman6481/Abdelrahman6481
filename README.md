@@ -13,7 +13,7 @@
 <img width="600"  src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 
--  I am a `Student` Faculty of Computers & Information technology at Canadian International Collage
+- :school: I am a `Student` Faculty of Computers & Information technology at Canadian International Collage
 
 - 🌱 I’m currently learning **Mopile Application Development With Flutter**
 
