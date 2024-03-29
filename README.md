@@ -33,21 +33,11 @@
 <a href="https://twitter.com/abdelr7man_l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://instagram.com/abdelrhman_montaser_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-<a href="https://fb.com/abdelrhman montaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrhman montaser" height="30" width="40" /></a>
-
-  
+	
 </p>
 
 ####
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdelr7man_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelr7man_l" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelrahman-montaser-45a1851b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-montaser-45a1851b5" height="30" width="40" /></a>
-<a href="https://fb.com/abdelrhman montaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrhman montaser" height="30" width="40" /></a>
-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrhman_montaser_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdelrahmanmontasr216481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrahmanmontasr216481" height="30" width="40" /></a>
-<a href="https://discord.gg/Abdelrahamn Montaser#0590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abdelrahamn Montaser#0590" height="30" width="40" /></a>
-</p>
+
 
 ###
 
@@ -92,5 +82,7 @@ generator/master/src/images/icons/Social/instagram.svg" alt="abdelrhman_montaser
 
 ###
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
