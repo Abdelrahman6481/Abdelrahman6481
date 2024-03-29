@@ -4,7 +4,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+A+Software+Engineer...;Full-stack+Developer;Nice+to+meet+you!&center=true&size=27">
   </a>
 </h1>
