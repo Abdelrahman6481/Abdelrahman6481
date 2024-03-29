@@ -13,11 +13,19 @@
 <img width="600"  src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- Studied Computer Science/Business Administration At Business Information System (`BIS`), Cnadian International College
-- Interested About `Software Engineering` | `Competitive Programming` | `Back-End Development` | `DevOps` 
-- I’m Currently Learning Everything 😂
-</p>
+- 🔭 I’m currently working on **Full-stack Developer, Laravel , PHP , My Sql**
+
+- 🌱 I’m currently learning **Mopile Application Development With Flutter**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write articles on [Hashnode](https://abdelrahman1.hashnode.dev/newsletter)
+
+- 💬 Ask me about **Full-stack Developer, Laravel , PHP , My Sql ,Flutter**
+
+- 📫 Feel free to reach me out **cnario.bedo@gmail.com**
+
+- 🏠 Also We've a tech community called [Dev Hac](https://discord.gg/22DJY8QS).
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -33,6 +41,7 @@
 <a href="https://twitter.com/abdelr7man_l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://instagram.com/abdelrhman_montaser_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://abdelrahman1.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 	
 </p>
 
