@@ -161,8 +161,7 @@
 <br/>
 </p>
 
-
-<!-- Copy-paste in your Readme.md file -->
+###
 
 <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
   <picture>
@@ -172,8 +171,6 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
 ###
 
 <div align="center">
