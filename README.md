@@ -15,7 +15,7 @@
 
 - :school: I am a `Student` Faculty of Computers & Information technology at Canadian International Collage
 
-- 💻: I am Working  **`Full-stack Developer`, `Laravel` , `PHP` , `My Sql` ,`Flutter developer`**
+- 💻: I am Working  **`Full-stack Developer`, `Laravel` , `PHP` , `My Sql` ,**
 
 - :technologist: I love using Software as a solution for every `Problem`.
 
