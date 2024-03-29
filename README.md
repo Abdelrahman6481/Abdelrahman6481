@@ -25,7 +25,7 @@
 
 - 📫 Feel free to reach me out **cnario.bedo@gmail.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.gg/22DJY8QS).
+- 🏠 Also We've a tech community called [Discord](https://discord.gg/22DJY8QS).
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
