@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://abdelrahman1.hashnode.dev/newsletter)
 
-- 💬 Ask me about **`Full-stack Developer`, `Laravel` , `PHP` , `My Sql` ,`Flutter`**
+- 💬 Ask me about **`Full-stack Developer`, `Django` , `Python` , `My Sql` ,`Flutter`**
 
 - 📫 Feel free to reach me out **`cnario.bedo@gmail.com`**
 
