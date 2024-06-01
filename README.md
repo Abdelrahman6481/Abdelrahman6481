@@ -13,7 +13,7 @@
 
 - :school: I am a `Student` Faculty of Computers & Information technology at Canadian International Collage
 
-- 💻: I am Working  **`Full-stack Developer`, `django` , `Python` , `My Sql` ,**
+- 💻: I am Working  **`Full-stack Developer`, `laravel` , `PHP` , `My Sql` ,**
 
 - :technologist: I love using Software as a solution for every `Problem`.
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://abdelrahman1.hashnode.dev/newsletter)
 
-- 💬 Ask me about **`Full-stack Developer`, `Django` , `Python` , `My Sql` ,`Flutter`**
+- 💬 Ask me about **`Full-stack Developer`, `Larave , Django` , `PHP , Python` , `Mondo_DB , My Sql` ,`Flutter`**
 
 - 📫 Feel free to reach me out **`cnario.bedo@gmail.com`**
 
