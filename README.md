@@ -44,7 +44,8 @@
 <!--h2 without bottom border-->
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> <ul align="center"> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
+  </ul>
 <br>
 <div align='left'>
 
@@ -65,11 +66,14 @@
 ###
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+_______
+
+
+## <ul align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> __ <b> ___Technologies That I Know👨🏻‍💻___ </b>__
+</ul>
+
+<br>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -79,6 +83,14 @@
 
 
 ###
+
+<br>
+
+
+## <ul align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+</ul>
+
+<br>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
