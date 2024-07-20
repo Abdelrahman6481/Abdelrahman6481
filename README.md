@@ -42,11 +42,12 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
- <br>
-<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-</div>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
 
 <!--icons and links-->
 <p align="center">
