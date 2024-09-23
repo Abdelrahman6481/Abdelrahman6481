@@ -10,7 +10,6 @@
 <p align="center">
 
 
-<a href="https://app.daily.dev/abdelrahmanmontaser77"><img src="https://api.daily.dev/devcards/v2/yevQM9IMqjp2u02JjriwA.png?r=ft1&type=wide" width="652" alt="Abdelrahman Montaser's Dev Card"/></a>
 
  
 <img width="600"  src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
