@@ -24,7 +24,7 @@
 
 <br>
 
-- :school: I am a `Student` Faculty of Computers & Information technology at Canadian International Collage
+- :school: I am a `Graduate` Faculty of Computers & Information technology at Canadian International Collage
 
 - 💻: I am Working  **`Full-stack Developer`, `laravel` , `PHP` , `My Sql` ,**
 
